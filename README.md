@@ -3,7 +3,7 @@
 #### GIF 示例 (不挂 VPN 查看不了 GIF)
 
 <div style="display: flex; justify-content: space-between;"> 
-  <img src="img/2.PNG" marginTop="0" width="40%" height="33%"> 
+  <img src="img/00.gif" marginTop="0" width="40%" height="33%"> 
   <video controls>
   <source src="img/00.mp4" type="video/mp4"  width="40%" height="33%"> 
 </video>
